@@ -1,0 +1,13 @@
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\obj\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\obj\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\obj\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.AssemblyInfo.cs
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\obj\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\bin\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.exe
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\bin\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.deps.json
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\bin\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.runtimeconfig.json
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\bin\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.runtimeconfig.dev.json
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\bin\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.dll
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\bin\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.pdb
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\obj\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.dll
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\obj\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.pdb
+C:\Users\brian\source\repos\BrianAtue_TAREA5_Funciones\BrianAtue_TAREA5_Funciones\obj\Debug\netcoreapp3.1\BrianAtue_TAREA5_Funciones.genruntimeconfig.cache
