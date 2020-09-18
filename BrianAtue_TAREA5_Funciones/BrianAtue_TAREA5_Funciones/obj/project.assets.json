@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brian\\source\\repos\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones.csproj",
+      "projectUniqueName": "D:\\C#\\Funciones\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones.csproj",
       "projectName": "BrianAtue_TAREA5_Funciones",
-      "projectPath": "C:\\Users\\brian\\source\\repos\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones.csproj",
+      "projectPath": "D:\\C#\\Funciones\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brian\\source\\repos\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones\\obj\\",
+      "outputPath": "D:\\C#\\Funciones\\BrianAtue_TAREA5_Funciones\\BrianAtue_TAREA5_Funciones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
