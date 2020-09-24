@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\SoledadLiWang_TAREA5_Funciones\SoledadLiWang_TAREA5_Funciones\bin\Debug\SoledadLiWang_TAREA5_Funciones.exe.config
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\SoledadLiWang_TAREA5_Funciones\SoledadLiWang_TAREA5_Funciones\bin\Debug\SoledadLiWang_TAREA5_Funciones.exe
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\SoledadLiWang_TAREA5_Funciones\SoledadLiWang_TAREA5_Funciones\bin\Debug\SoledadLiWang_TAREA5_Funciones.pdb
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\SoledadLiWang_TAREA5_Funciones\SoledadLiWang_TAREA5_Funciones\obj\Debug\SoledadLiWang_TAREA5_Funciones.csprojAssemblyReference.cache
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\SoledadLiWang_TAREA5_Funciones\SoledadLiWang_TAREA5_Funciones\obj\Debug\SoledadLiWang_TAREA5_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\SoledadLiWang_TAREA5_Funciones\SoledadLiWang_TAREA5_Funciones\obj\Debug\SoledadLiWang_TAREA5_Funciones.exe
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\SoledadLiWang_TAREA5_Funciones\SoledadLiWang_TAREA5_Funciones\obj\Debug\SoledadLiWang_TAREA5_Funciones.pdb
