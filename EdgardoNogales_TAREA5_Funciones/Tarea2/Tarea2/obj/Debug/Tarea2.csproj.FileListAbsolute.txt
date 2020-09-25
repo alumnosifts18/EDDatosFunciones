@@ -1,0 +1,7 @@
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
