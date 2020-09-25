@@ -1,0 +1,7 @@
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea7\Tarea7\bin\Debug\Tarea7.exe.config
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea7\Tarea7\bin\Debug\Tarea7.exe
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea7\Tarea7\bin\Debug\Tarea7.pdb
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea7\Tarea7\obj\Debug\Tarea7.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea7\Tarea7\obj\Debug\Tarea7.exe
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea7\Tarea7\obj\Debug\Tarea7.pdb
+C:\Users\Edgardo Nogales\Desktop\EdgardoNogales_TAREA5_Funciones\Tarea7\Tarea7\obj\Debug\Tarea7.csprojAssemblyReference.cache
