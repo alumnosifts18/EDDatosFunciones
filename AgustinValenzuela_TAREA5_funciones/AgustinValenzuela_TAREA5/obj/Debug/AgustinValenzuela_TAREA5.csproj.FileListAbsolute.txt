@@ -1,0 +1,7 @@
+D:\Edatos\Tarea5\AgustinValenzuela_TAREA5\AgustinValenzuela_TAREA5\obj\Debug\AgustinValenzuela_TAREA5.csprojAssemblyReference.cache
+D:\Edatos\Tarea5\AgustinValenzuela_TAREA5\AgustinValenzuela_TAREA5\obj\Debug\AgustinValenzuela_TAREA5.csproj.CoreCompileInputs.cache
+D:\Edatos\Tarea5\AgustinValenzuela_TAREA5\AgustinValenzuela_TAREA5\bin\Debug\AgustinValenzuela_TAREA5.exe.config
+D:\Edatos\Tarea5\AgustinValenzuela_TAREA5\AgustinValenzuela_TAREA5\bin\Debug\AgustinValenzuela_TAREA5.exe
+D:\Edatos\Tarea5\AgustinValenzuela_TAREA5\AgustinValenzuela_TAREA5\bin\Debug\AgustinValenzuela_TAREA5.pdb
+D:\Edatos\Tarea5\AgustinValenzuela_TAREA5\AgustinValenzuela_TAREA5\obj\Debug\AgustinValenzuela_TAREA5.exe
+D:\Edatos\Tarea5\AgustinValenzuela_TAREA5\AgustinValenzuela_TAREA5\obj\Debug\AgustinValenzuela_TAREA5.pdb
