@@ -1,0 +1,7 @@
+D:\Edatos\Pilas y colas\AgustinValenzuela_pilasycolas\AgustinValenzuela_pilasycolas\obj\Debug\AgustinValenzuela_pilasycolas.csprojAssemblyReference.cache
+D:\Edatos\Pilas y colas\AgustinValenzuela_pilasycolas\AgustinValenzuela_pilasycolas\obj\Debug\AgustinValenzuela_pilasycolas.csproj.CoreCompileInputs.cache
+D:\Edatos\Pilas y colas\AgustinValenzuela_pilasycolas\AgustinValenzuela_pilasycolas\bin\Debug\AgustinValenzuela_pilasycolas.exe.config
+D:\Edatos\Pilas y colas\AgustinValenzuela_pilasycolas\AgustinValenzuela_pilasycolas\bin\Debug\AgustinValenzuela_pilasycolas.exe
+D:\Edatos\Pilas y colas\AgustinValenzuela_pilasycolas\AgustinValenzuela_pilasycolas\bin\Debug\AgustinValenzuela_pilasycolas.pdb
+D:\Edatos\Pilas y colas\AgustinValenzuela_pilasycolas\AgustinValenzuela_pilasycolas\obj\Debug\AgustinValenzuela_pilasycolas.exe
+D:\Edatos\Pilas y colas\AgustinValenzuela_pilasycolas\AgustinValenzuela_pilasycolas\obj\Debug\AgustinValenzuela_pilasycolas.pdb
